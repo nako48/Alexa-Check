@@ -1,5 +1,4 @@
 # Alexa-Check
-Check Subdomain With Wordlist !
 
 How To Install & Use :
 </br>$ git clone https://github.com/nako48/Alexa-Check
